@@ -46,6 +46,7 @@
 A smart, feature-rich WhatsApp bot that manages groups — tag all members, warn users, block links, make stickers and play games — with multi-device support using Baileys and Node.js.
 
 ![Optimus-Bot](https://img.shields.io/badge/Optimus_Bot-Online-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/CodeWithTayyab96/badge.svg)](https://hub.xerj.org/contributors/CodeWithTayyab96)
 
 #### 💬 NeuralChat — [AI Chat App](https://neuralchat.live)
 
